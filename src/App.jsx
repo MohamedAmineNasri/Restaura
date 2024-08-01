@@ -1,8 +1,10 @@
 import About from './components/About'
 import Dishes from './components/Dishes'
+import Expertise from './components/Expertise'
 import HeroSection from './components/HeroSection'
 import Mission from './components/Mission'
 import Navbar from './components/Navbar'
+import Review from './components/Review'
 
 
 const App = () => {
@@ -13,6 +15,8 @@ const App = () => {
       <Dishes />
       <About />
       <Mission />
+      <Expertise />
+      <Review />
     </main>
   )
 }
