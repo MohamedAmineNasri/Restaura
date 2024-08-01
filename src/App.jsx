@@ -2,6 +2,7 @@ import About from './components/About'
 import Contact from './components/Contact'
 import Dishes from './components/Dishes'
 import Expertise from './components/Expertise'
+import Footer from './components/Footer'
 import HeroSection from './components/HeroSection'
 import Mission from './components/Mission'
 import Navbar from './components/Navbar'
@@ -19,6 +20,7 @@ const App = () => {
       <Expertise />
       <Review />
       <Contact />
+      <Footer />
     </main>
   )
 }
