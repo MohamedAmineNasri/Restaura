@@ -13,7 +13,7 @@ const Footer = () => {
             ))}
         </div>
         <p className="mt-8 text-center tracking-tighter text-neutral-500">
-            &copy;compileTab. All rights reserved.
+            &copy;Nasri. All rights reserved.
         </p>
     </div>
   )
