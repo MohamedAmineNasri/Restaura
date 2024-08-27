@@ -6,5 +6,16 @@
 
 :root {
   font-family: 'Inter', sans-serif;
+}
+
+/* Default background color for dark mode */
+[data-theme='dark'] {
   background-color: #000000;
+  color: #ffffff; /* Ensure text color is appropriate for dark mode */
+}
+
+/* Background color for light mode */
+[data-theme='light'] {
+  background-color: #ffffff;
+  color: #000000; /* Ensure text color is appropriate for light mode */
 }
