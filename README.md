@@ -46,31 +46,6 @@ Read customer reviews, featuring images and text styled based on the current the
 ### Footer
 Includes social media links and copyright information.
 
-## Screenshots
-
-Here are some screenshots of the website:
-
-- **Hero Section**
-  ![Hero Section](public/HeroSection.png)
-
-- **Dishes Section (Light Mode)**
-  ![Dishes Light Mode](public/DishesLightMode.png)
-
-- **Dishes Section (Dark Mode)**
-  ![Dishes Dark Mode](public/DishesDarkMode.png)
-
-- **About Us (Light Mode)**
-  ![About Us Light Mode](public/AboutUsLightMode.png)
-
-- **About Us (Dark Mode)**
-  ![About Us Dark Mode](public/AboutUsDarkMode.png)
-
-- **Mission**
-  ![Our Mission](Our Mission.png)
-
-- **Review Section and Footer**
-  ![Review Contact Footer](public/ReviewContactFooter.png)
-
 ## Getting Started
 
 To get a local copy up and running, follow these steps:
